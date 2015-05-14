@@ -1,0 +1,14 @@
+Login Account :
+saideboutique/Andinadya2014
+Cpanel details :
+saideboutique123/Andinadya2014
+ftp :
+ftppublic/Andinadya2014
+sqldatabase :
+saideboutiquedb1
+saideboutiquesql/Andinadya2014
+
+
+opencart :
+saideboutique/Andinadya2014
+
